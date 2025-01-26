@@ -1,4 +1,4 @@
-*Facetyper Facedancer Typing Library*
+**Facetyper Facedancer Typing Library**
 
 2015 Stuart Walker - https://github.com/stuartw1/facetyper
 
